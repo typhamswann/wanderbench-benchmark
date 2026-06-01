@@ -3,7 +3,7 @@
 ## Install the runner
 
 ```
-uv tool install git+https://github.com/tphamswann/wanderbench-env
+uv tool install git+https://github.com/typhamswann/wanderbench-env
 ```
 
 This installs the `wb` CLI globally. Confirm with `wb info`.
