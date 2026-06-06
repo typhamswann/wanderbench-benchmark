@@ -1,5 +1,5 @@
-"""System-prompt builder for wanderbench. Vendored verbatim from
-wanderbench/core/prompt.py — no edits needed (no external imports)."""
+"""System-prompt builder for lostbench. Vendored verbatim from
+lostbench/core/prompt.py — no edits needed (no external imports)."""
 from __future__ import annotations
 
 

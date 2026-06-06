@@ -1,4 +1,4 @@
-"""Task dataclass — vendored from wanderbench/core/tasks.py."""
+"""Task dataclass — vendored from lostbench/core/tasks.py."""
 from __future__ import annotations
 
 import json
