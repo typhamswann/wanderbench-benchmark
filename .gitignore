@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 eval_out/
+eval_out_*/
+_partial/
+*.pyc
